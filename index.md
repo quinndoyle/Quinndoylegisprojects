@@ -1,13 +1,9 @@
----
-title: Home
-nav_order: 1
----
 
 # 👋 Welcome
 
-Hi! I’m **Your Name**, a [short description — e.g. researcher, map designer, etc.].
+Hi! I’m Quinn Doyle, a Temple University Master's in Public Policy Student.
 
-Use the links on the left (or top, depending on theme) to explore:
+Use the  following links to explore:
 
 - [About Me](about.md)
 - [Projects](projects.md)
