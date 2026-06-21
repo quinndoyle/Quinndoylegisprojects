@@ -3,7 +3,7 @@
 
 Here are some of my favorite works:
 
-| Year | Project | Description |
+| Year | Project | Map Description |
 |------|----------|--------------|
-| 2024 | Tokyo Mapping Studio | A collection of urban spatial stories |
-| 2023 | Cities in Motion | An interactive Leaflet map series |
+| 2026 | Chicago Crime & Economic Development | Homicide and Airbnb Density by Chicago Police District |
+| 2026 | Reccomendations for City Supported Grocery Store | Areas Eligible for City Supported Grocery Stores|
