@@ -90,7 +90,8 @@ from existing farmers markets and Healthy Corner Store Initiative locations.
   text-align: center;
   padding: 20px;
 ">
-  <p><strong>Philadelphia grocery store map image will be placed here</strong></p>
+  <p><strong>Philadelphia grocery store eligiability<img width="458" height="531" alt="Screenshot 2026-06-21 at 10 56 25 PM" src="https://github.com/user-attachments/assets/834eda03-a89e-4aa4-a868-443273735a6a" />
+ </strong></p>
 </div>
 
 <hr>
