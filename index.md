@@ -1,3 +1,9 @@
+---
+layout: home
+title: Urban Policy and GIS Portfolio
+description: Mapping Philadelphia and other urban communities through policy analysis and spatial research.
+background: '/img/bg-index.jpg'
+---
 
 # 👋 Welcome
 
