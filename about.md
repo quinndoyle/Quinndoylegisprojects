@@ -1,9 +1,9 @@
-<img width="1620" height="1080" alt=":img:bg-about" src="https://github.com/user-attachments/assets/cdaee09f-d717-4305-a91e-3a1ba64fbd9a" />
 ---
 layout: page
 title: About Me
 description: This is what I do.
-background: '/img/bg-about.jpg'
+background: '<img width="1620" height="1080" alt=":img:bg-about" src="https://github.com/user-attachments/assets/0c2e5157-5f43-4dcf-a3f7-d9c113323b04" />
+/img/bg-about.jpg'
 ---
 
 # About Me
